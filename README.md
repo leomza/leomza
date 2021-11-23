@@ -5,3 +5,4 @@ Currently working as a Freelancer and at UpNext. I have two degrees, one in Busi
 📫 How to reach me: leo.stackdev@gmail.com
 
 ![](https://www.reactiongifs.us/wp-content/uploads/2018/07/Working.gif)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
